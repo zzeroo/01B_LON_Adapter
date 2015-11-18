@@ -56,7 +56,7 @@
 <layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
 <layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="yes"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="no" active="yes"/>
 <layer number="51" name="tDocu" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="52" name="bDocu" color="7" fill="1" visible="no" active="yes"/>
@@ -150,8 +150,8 @@
 <text x="43.41" y="77.375" size="1.2" layer="21" font="vector" ratio="5" rot="R90">&gt;AUTOR</text>
 <text x="41.1875" y="77.375" size="1.2" layer="21" font="vector" ratio="5" rot="R90">ADP_LON</text>
 <text x="39.9175" y="77.4225" size="1.2" layer="16" font="vector" ratio="10" rot="MR90">ADP_LON</text>
-<text x="42.14" y="77.4225" size="1.2" layer="16" font="vector" ratio="10" rot="MR90">MW0210</text>
-<text x="44.3625" y="77.4225" size="1.2" layer="16" font="vector" ratio="10" rot="MR90">164.001.01B</text>
+<text x="42.14" y="77.4225" size="1.2" layer="16" font="vector" ratio="10" rot="MR90">&gt;AUTOR</text>
+<text x="44.3625" y="77.4225" size="1.2" layer="16" font="vector" ratio="10" rot="MR90">&gt;DRAWING_NAME</text>
 <text x="31.115" y="73.3425" size="2.54" layer="21" font="vector" rot="SR0">RA-GAS</text>
 <text x="40.005" y="38.4175" size="2.54" layer="16" font="vector" ratio="12" rot="MR0">RA-GAS</text>
 <rectangle x1="38.1" y1="78.105" x2="44.45" y2="89.8525" layer="42"/>
